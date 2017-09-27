@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css?family=Wendy+One');
+@import url('https://fonts.googleapis.com/css?family=Montserrat+Alternates');
+.title{
+    margin-top: 50px;
+    margin-bottom: 40px;
+    font-family: 'Wendy One', sans-serif;
+}
+
+.progress{
+    margin-left: 70px;
+    margin-right: 70px;
+}
+
+.progress-bar{
+    background-color: rgba(66, 5, 57, 0.69);
+}
+
+.answer{
+    margin-left: 60px;
+}
+
+.square{
+    background-color: rgba(47, 11, 80, 0.33);
+    margin-top: 340px;
+    padding-bottom: 60px;
+}
+
+
+a:link {
+    color: #2C0642;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    border: solid;
+}
+
+a:visited {
+    text-decoration: none;
+}
+
+a:hover {
+    background-color: rgba(94, 75, 163, 0.61);
+}
+
+a:active {
+    text-decoration: underline;
+}
